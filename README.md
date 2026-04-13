@@ -456,5 +456,5 @@ CREATE DATABASE pizzavilla_db;
 </p>
 
 <p align="center">
-🍕 Made with ❤️ and lots of SQL queries by [Your Name]
+🍕 Made with ❤️ and lots of SQL queries by Manish Bisht
 </p>
